@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+
+}
+.cta {
+  color: Aquamarine;
+  font-size: 16px;
+  font-family: Verdana;
+
+}
+.description {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+
+}
+.copyright{
+  font-family: Verdana;
+  text-align: right;
+  color: gray;
+
+}
